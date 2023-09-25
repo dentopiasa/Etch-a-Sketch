@@ -2,7 +2,6 @@
     box-sizing: border-box;
 }
 .container {
-    border: 3px solid red;
     width: 500px;
     height: 500px;
     display: grid;
@@ -10,4 +9,7 @@
 .container div {
     border: 1px solid black;
     aspect-ratio: 1;
+}
+
+.box {
 }
